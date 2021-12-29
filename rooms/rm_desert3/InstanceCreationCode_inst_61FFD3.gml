@@ -1,0 +1,1 @@
+text = "Stand above this block and press (S)"

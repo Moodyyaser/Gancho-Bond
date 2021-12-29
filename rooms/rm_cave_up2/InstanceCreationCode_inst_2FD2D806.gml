@@ -1,0 +1,1 @@
+text = "Don't forget,\nuse the right mouse button to throw the balls."

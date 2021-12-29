@@ -1,0 +1,1 @@
+text = "Use the mouse to aim.\nLeft-click to shoot.\nRight-click to remove the hook."

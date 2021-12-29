@@ -1,0 +1,1 @@
+text = "Some things can be pulled towards\nyou to move them around.\nUse the Right mouse button\nto keep their momentum."

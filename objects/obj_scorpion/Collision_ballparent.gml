@@ -1,0 +1,2 @@
+/// @desc
+other.hspeed += hspeed;

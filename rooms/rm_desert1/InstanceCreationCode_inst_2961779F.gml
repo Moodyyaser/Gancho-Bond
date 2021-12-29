@@ -1,0 +1,1 @@
+text = "Move with (D) and (A)\nJump with (Space) or (W)"

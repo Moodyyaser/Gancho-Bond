@@ -1,0 +1,1 @@
+/// @desc destroy particles
